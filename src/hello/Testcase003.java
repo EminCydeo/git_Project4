@@ -1,7 +1,7 @@
 package hello;
 
 public class Testcase003 {
-<<<<<<< HEAD
+
 
     // this is unknow changece
     // that exitst in master
